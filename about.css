@@ -1,0 +1,20 @@
+.design { 
+   height: 400px;
+   position: relative;
+   
+   background: url(Cars/about.jpg) no-repeat ;
+   
+ }
+ 
+ .vertical-center {
+   margin: 0;
+   color: white;
+   position: absolute;
+   top: 50%;
+   -ms-transform: translateY(-50%);
+   transform: translateY(-50%);
+ }
+ #down
+ {
+   background: rgb(211, 211, 211);
+ }
